@@ -1,2 +1,2 @@
 # coding-challenges-java
-Solution implementation for Java coding challenges.
+This repo contains my solutions for some Java coding challenges.
